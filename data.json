@@ -1,0 +1,20 @@
+{
+    "contacts": [
+        {
+            "id": 1001,
+            "name": "the doctor",
+            "handle": "@drwho"
+        },
+        {
+            "id": 1002,
+            "name": "Eve Polastri",
+            "handle": "@k_eve"
+        },
+        {
+            "id": 1003,
+            "name": "S",
+            "handle": "@221b"
+        }
+
+    ]
+}
